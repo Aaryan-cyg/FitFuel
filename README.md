@@ -1,4 +1,4 @@
-# Welcome to your FitFuel 👋
+# Welcome to FitFuel 👋
 
 ## Get started
 
