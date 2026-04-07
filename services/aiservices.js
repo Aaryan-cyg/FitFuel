@@ -1,4 +1,4 @@
-const API_KEY = "AIzaSyCqf5uLqFhoJPf8DGkk-jWyc8LdUMu041k"; 
+const API_KEY = "Enter your Gemini API KEY"; 
 
 export async function generateMealPlan(data) {
   const prompt = `Create a detailed 7-day meal plan.
